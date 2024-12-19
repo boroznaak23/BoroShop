@@ -1,0 +1,32 @@
+﻿@model ProductModel
+@{
+    ViewData["Title"] = "Products";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Create new product</p>
+
+<form asp-action="Products" method="post">
+    <div class="form-floating mb-3">
+        <input type="text" asp-for="Name" class="form-control" id="floatingInput" placeholder="Product Name">
+        <label for="floatingInput">Product Name</label>
+    </div>
+    <div class="form-floating mb-3">
+        <input type="number" asp-for="Memory" class="form-control" id="floatingYear" placeholder="Memory">
+        <label for="floatingYear">Memory in GB</label>
+    </div>
+    <button type="submit" class="btn btn-primary mb-3">Submit</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(Model.Name) && Model.Memory.HasValue)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">Memory - <strong>@Model.Memory GB</strong></p>
+            <a href="#" class="btn btn-primary">Buy</a>
+        </div>
+    </div>
+}
+
+
