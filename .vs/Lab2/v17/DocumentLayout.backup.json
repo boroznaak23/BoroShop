@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\products\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\products\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\products\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\products\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\migrations\\20250115122013_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\migrations\\20250115122013_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\models\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|c:\\mac\\home\\documents\\github\\boroshop\\lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D944B78-34A8-41AE-85AF-4CF9D45E4DD0}|Lab2\\Lab2.csproj|solutionrelative:lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:47:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_List.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\_List.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Products\\_List.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\_List.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Products\\_List.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T12:49:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab2",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Lab2.csproj",
+              "RelativeDocumentMoniker": "Lab2\\Lab2.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Lab2.csproj",
+              "RelativeToolTip": "Lab2\\Lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:08:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab2\\Migrations\\ShopContextModelSnapshot.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab2\\Migrations\\ShopContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:15:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Lab2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Lab2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:57:08.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:41:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:41:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductViewModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\AddProductViewModel.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\AddProductViewModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\AddProductViewModel.cs",
+              "RelativeToolTip": "Lab2\\Models\\AddProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:32:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Products\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:20:59.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:12:34.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:05:09.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250115122013_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Migrations\\20250115122013_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab2\\Migrations\\20250115122013_InitialCreate.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Migrations\\20250115122013_InitialCreate.cs",
+              "RelativeToolTip": "Lab2\\Migrations\\20250115122013_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:20:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab2\\appsettings.json",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\appsettings.json",
+              "RelativeToolTip": "Lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T11:51:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:46:16.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ShopContext.cs",
+              "RelativeToolTip": "Lab2\\Models\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:37:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:36:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "animsition.min.css",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+              "RelativeDocumentMoniker": "Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+              "RelativeToolTip": "Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T10:58:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "animsition.css",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+              "RelativeDocumentMoniker": "Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+              "RelativeToolTip": "Lab2\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-15T10:53:16.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Lab2\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:16:40.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:15:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Lab2\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:14:24.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T09:14:20.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Products.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Products\\Products.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Products\\Products.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Products\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:51:47.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcBAAAAAAAAAAAAAFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:33:54.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\BoroShop\\Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:33:45.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
